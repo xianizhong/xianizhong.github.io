@@ -1,0 +1,33 @@
+h1{
+  color: brown;
+  font-size: 42px;
+
+font-size: 18px;
+font-family: 'Slabo 27px', serif;
+background-color: ivory;
+}
+
+article{
+  padding: 10px 60px;
+}
+
+img{
+max-width:100%;
+}
+
+figure{
+  margin: 15px;
+}
+
+.byline, .dateline{
+font-size: 16px;
+font-weight: bold;
+color: gray;
+font-family: helvetica;
+}
+
+figcaption{
+font-size: 15px;
+color: gray;
+margin-top: 0px;
+}
