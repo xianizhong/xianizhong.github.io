@@ -1,9 +1,11 @@
 h1{
   color: brown;
   font-size: 42px;
+}
 
+body{
 font-size: 18px;
-font-family: 'Slabo 27px', serif;
+font-family: 'Lora', serif;
 background-color: ivory;
 }
 
@@ -30,4 +32,5 @@ figcaption{
 font-size: 15px;
 color: gray;
 margin-top: 0px;
+font-family: helvetica;
 }
