@@ -1,11 +1,11 @@
 h1{
-  font-size: 42px;
+  font-size: 38px;
   font-family: Helvetica;
   color: brown;
 }
 
 .banner{
-  font-size: 30px;
+  font-size: 20px;
   font-family: Helvetica;
   font-weight: bold;
   text-align: center;
@@ -19,12 +19,13 @@ h2{
 }
 
 body{
-font-size: 20px;
+font-size: 18px;
 font-family: Times;
 background: url(http://latteriasorrentina.com/wp-content/uploads/2016/05/pizza-background.jpg) center center fixed;
 background-position-x: center;
 background-position-y: center;
 background-size: cover;
+margin: 5px;
 }
 
 article{
