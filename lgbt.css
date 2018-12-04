@@ -1,0 +1,74 @@
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40;
+  text-align: center;
+}
+
+h3{
+  font-family: 'Open Sans', sans-serif;
+  font-size:20px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+
+h4{
+  font-family: 'Open Sans', sans-serif;
+  font-size:20px;
+  margin-top: 45px;
+  color: gray;
+  text-align: center;
+}
+
+img{
+  max-width: 100%;
+  position: center;
+}
+
+.header {
+  overflow: hidden;
+  background-color: teal;
+  padding: 20px 0px;
+}
+
+#job, #edu {
+  width: 50%;
+  float: left;
+}
+
+article {
+ font-size: 20px;
+ margin:30px 20px;
+}
+
+.byline, .dateline{
+  font-size: 18px;
+  text-align: center;
+}
+
+.dateline{
+  margin: 25px;
+}
+
+.key{
+  font-size: 20px;
+  font-weight: bold;
+  font-family:'Open Sans', sans-serif;
+}
+
+ul {
+   font-size: 20px;
+}
+
+a:-webkit-any-link {
+    color: teal;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+
+@media only screen and (max-width:768px) {
+  #job, #edu {
+ 		width: 100%;
+ 	}
