@@ -26,10 +26,16 @@ img{
   position: center;
 }
 
+figcaption{
+  font-size: 15px;
+  font-family: Helvetica;
+  color: gray;
+}
 .header {
   overflow: hidden;
   background-color: teal;
   padding: 20px 0px;
+  display: block;
 }
 
 #job, #edu {
@@ -39,7 +45,7 @@ img{
 
 article {
  font-size: 20px;
- margin:30px 20px;
+ margin:30px 30px;
 }
 
 .byline, .dateline{
